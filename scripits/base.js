@@ -1,0 +1,1 @@
+console.log("entrou o base.js")
