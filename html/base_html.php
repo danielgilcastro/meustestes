@@ -5,8 +5,8 @@ if ($_SESSION['status'] == 'logado'):
     
     $query = "";
     $result = mysqli_query($link,$query);
-    
 
+    
 ?>
 <!DOCTYPE html>
 <html lang="pt-br">

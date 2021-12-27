@@ -1,6 +1,6 @@
 <?PHP 
 
-//include "../inc/conection.inc";
+// include "../inc/conection.inc";
 
 // session_start();
 // if ($_SESSION['status'] == 'logado'){
@@ -13,13 +13,17 @@
 // }
 
 
-$imagem  = $_FILES['imagem'];
+// $imagem  = $_FILES['imagem'];
 
-echo $imagem['name'];
-echo $imagem['type'];
-echo $imagem['tmp_name'];
-echo $imagem['error'];
-echo $imagem['size'];
+// echo $imagem['name'];
+// echo $imagem['type'];
+// echo $imagem['tmp_name'];
+// echo $imagem['error'];
+// echo $imagem['size'];
+
+// $my_file = readfile("../arquivos/texto.txt");
+
+    
 
 
 

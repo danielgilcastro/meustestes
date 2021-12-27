@@ -17,8 +17,9 @@
 
 <body>
 
+<h1>Está no Index</h1>
 
-
+<button type="button" id="bt_cria">oi meu chapa</button>
 
 </body>
 <script src="scripits/base.js"></script>
