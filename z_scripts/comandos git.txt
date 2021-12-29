@@ -61,6 +61,7 @@ o mesmo para criar um branch novo mas precisa esta em um igual no local
        para remover um branch
        git push origin  :teste
  
+ git pull origin 
 
 
 
