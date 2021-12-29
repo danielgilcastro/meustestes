@@ -1,1 +1,1 @@
-console.log("entrou o base.js")
+console.log("entrou o base.js");
